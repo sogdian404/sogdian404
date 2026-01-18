@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning C#, C++, Kotlin, HTML, javaScript, CSS
-- 💬 You can contact me via my social media [Telegram](https://t.me/sogdian404) or [Instagram](https://www.instagram.com/sogdian404)
+- 💬 You can contact me via my [Telegram](https://t.me/sogdian404)
 - 💖 I love coding
 
 
